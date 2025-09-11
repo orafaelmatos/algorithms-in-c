@@ -1,0 +1,19 @@
+# Build and output folders
+output/
+build/
+*.exe
+*.out
+*.obj
+*.o
+
+# VS / VSCode
+.vscode/
+*.log
+*.db
+*.opendb
+*.pdb
+*.idb
+
+# OS specific
+.DS_Store
+Thumbs.db
